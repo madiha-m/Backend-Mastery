@@ -13,3 +13,12 @@ last_part = long_str[-1:10]
 full = f"First Part: {first_part}. Last Part: {last_part}"
 
 print(full)
+
+imp_points = '''
+Falsy nMenues in Python 
+1- \"\"  
+2- 0 
+3- None 
+'''
+
+print(imp_points)
