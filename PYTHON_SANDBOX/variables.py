@@ -15,7 +15,7 @@ full = f"First Part: {first_part}. Last Part: {last_part}"
 print(full)
 
 imp_points = '''
-Falsy nMenues in Python 
+Falsy Menus in Python 
 1- \"\"  
 2- 0 
 3- None 
